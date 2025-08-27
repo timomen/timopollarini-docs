@@ -1,8 +1,37 @@
 title: TimoPollarini Documentatie
 description: Documentatie voor producten van Timo Pollarini en andere dingen.
-theme: just-the-docs
 
-url: https://docs.timopollarini.nl
+theme: just-the-docs
+url: https://docs.timopollarini.nl/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+callouts_level: quiet
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: grey-lt
+  warning:
+    title: Warning
+    color: red
+
+enable_copy_code_button: true
+
+nav_enabled: true
+color_scheme: dark
 
 aux_links:
-  Hoofdsite: https://timopollarini.nl
+  Hoofdsite: https://timopollarini.nl/
