@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: TimoPollarini Documentatie
+description: Documentatie voor producten van Timo Pollarini en andere dingen.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://docs.timopollarini.nl
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Hoofdsite: https://timopollarini.nl
